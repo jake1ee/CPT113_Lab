@@ -1,0 +1,7 @@
+﻿  LinkList.cpp
+  Week 7 and 9.cpp
+  Generating Code...
+Week 7 and 9.obj : error LNK2019: unresolved external symbol "public: __cdecl LinkedList<class PersonInfo>::~LinkedList<class PersonInfo>(void)" (??1?$LinkedList@VPersonInfo@@@@QEAA@XZ) referenced in function main
+Week 7 and 9.obj : error LNK2019: unresolved external symbol "public: void __cdecl LinkedList<class PersonInfo>::appendNode(class PersonInfo)" (?appendNode@?$LinkedList@VPersonInfo@@@@QEAAXVPersonInfo@@@Z) referenced in function main
+Week 7 and 9.obj : error LNK2019: unresolved external symbol "public: void __cdecl LinkedList<class PersonInfo>::displayList(void)const " (?displayList@?$LinkedList@VPersonInfo@@@@QEBAXXZ) referenced in function main
+C:\Users\A C E R\Desktop\C++ Practice\CPT 113\Week 7 and 9\x64\Debug\Week 7 and 9.exe : fatal error LNK1120: 3 unresolved externals

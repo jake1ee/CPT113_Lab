@@ -1,0 +1,3 @@
+﻿  Lab Week 12.cpp
+C:\Users\A C E R\Desktop\CPT-113\Lab Week 12\Lab Week 12\Lab Week 12.cpp(114,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Lab Week 12.vcxproj -> C:\Users\A C E R\Desktop\CPT-113\Lab Week 12\x64\Debug\Lab Week 12.exe
